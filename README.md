@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/Ammyf2mgCNAAAAAC/azur-lane-enterprise.gif" width="300" alt="Enterprise typing animation" />
+<img align="right" src="https://media.tenor.com/Ammyf2mgCNAAAAAC/azur-lane-enterprise.gif" width="260" alt="Enterprise typing animation" />
 
 # Dan Ramos
 
@@ -6,7 +6,7 @@
 
 Focused on distributed web platforms, network architecture, and systems security. Based in Peru, developing primarily on Arch Linux.
 
-[Portfolio](https://yokonad.github.io) · [Email](mailto:danramos939@gmail.com) · [GitHub Profile](https://github.com/y0konad)
+[Portfolio](https://yokonad.github.io) · [Email](mailto:danramos939@gmail.com)
 
 ```json
 {
@@ -17,9 +17,7 @@ Focused on distributed web platforms, network architecture, and systems security
 }
 ```
 
-<br clear="right" />
-
----
+<br clear="both" />
 
 ### Technical Stack
 
@@ -29,15 +27,11 @@ Focused on distributed web platforms, network architecture, and systems security
   </a>
 </div>
 
----
-
 ### Networking & Security Specialization
 
 - **Routing & Switching:** Cisco IOS, VLSM Subnet Planning, Cisco Packet Tracer, Network Topology Design
 - **Traffic & Packet Analysis:** Wireshark, TCP/IP Protocol Suite, OSI Architecture, Network Reconnaissance
 - **Security Assessment:** Kali Linux, Nmap Port Scanning, Automated Vulnerability Assessment
-
----
 
 ### Featured Repositories
 
@@ -46,11 +40,9 @@ Focused on distributed web platforms, network architecture, and systems security
 - [**yokonad.github.io**](https://github.com/y0konad/yokonad.github.io) — Personal engineering portal and web portfolio built with Astro and Tailwind CSS.
 - [**calculadora-resistencias**](https://github.com/y0konad/calculadora-resistencias) — Electronic resistor color-code decoding utility with tolerance and thermal coefficient calculation.
 
----
-
 ### GitHub Activity
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=y0konad&theme=tokyonight&hide_border=true&card_width=490" alt="GitHub Streak Statistics" />
+  <img src="https://streak-stats.demolab.com?user=y0konad&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0konad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
