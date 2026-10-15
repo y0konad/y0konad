@@ -59,7 +59,7 @@
   </picture>
 </p>
 
-### Networking & Security Specialization
+### Engineering Profile & Specialization
 
 <div align="center">
   <picture>
