@@ -16,11 +16,48 @@
 
 ### Technical Stack
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,go,bash,react,nextjs,astro,tailwind,arch,linux,kali,docker,postgres,git,vscode&perline=8&theme=dark" alt="Technical Stack" />
-  </a>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stack/arch-linux.dark.svg">
+    <img alt="Arch Linux" src=".github/assets/stack/arch-linux.svg" height="75">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stack/kali-linux.dark.svg">
+    <img alt="Kali Linux" src=".github/assets/stack/kali-linux.svg" height="75">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stack/debian.dark.svg">
+    <img alt="Debian" src=".github/assets/stack/debian.svg" height="75">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stack/cloudflare.dark.svg">
+    <img alt="Cloudflare" src=".github/assets/stack/cloudflare.svg" height="75">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stack/c.dark.svg">
+    <img alt="C" src=".github/assets/stack/c.svg" height="75">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stack/python.dark.svg">
+    <img alt="Python" src=".github/assets/stack/python.svg" height="75">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stack/go.dark.svg">
+    <img alt="Go" src=".github/assets/stack/go.svg" height="75">
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stack/typescript.dark.svg">
+    <img alt="TypeScript" src=".github/assets/stack/typescript.svg" height="75">
+  </picture>
+</p>
 
 ### Networking & Security Specialization
 
