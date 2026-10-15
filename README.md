@@ -1,12 +1,25 @@
-<img align="right" src="https://media.tenor.com/Ammyf2mgCNAAAAAC/azur-lane-enterprise.gif" width="260" alt="Enterprise typing animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/banner/Y0KONAD.dark.svg?color=22d3ee,4493f8&effect=glint&tagline=Software%20Developer%20%7C%20Cybersecurity%20%26%20Networking&art=arch-linux">
+    <img alt="y0konad banner" src="https://ascii.rest/banner/Y0KONAD.svg?color=22d3ee,4493f8&effect=glint&tagline=Software%20Developer%20%7C%20Cybersecurity%20%26%20Networking&art=arch-linux">
+  </picture>
+</div>
 
-# Dan Ramos
+<p align="center">
+  <strong>Dan Ramos</strong><br />
+  Focused on distributed web platforms, network architecture, and systems security.<br />
+  Based in Peru, developing primarily on Arch Linux.
+</p>
 
-**Software Developer | Cybersecurity & Networking**
+<p align="center">
+  <a href="https://yokonad.github.io">Portfolio</a> · <a href="mailto:danramos939@gmail.com">Email</a>
+</p>
 
-Focused on distributed web platforms, network architecture, and systems security. Based in Peru, developing primarily on Arch Linux.
+<div align="center">
+  <img src="https://media.tenor.com/Ammyf2mgCNAAAAAC/azur-lane-enterprise.gif" width="280" alt="Enterprise typing animation" />
+</div>
 
-[Portfolio](https://yokonad.github.io) · [Email](mailto:danramos939@gmail.com)
+<br />
 
 ```json
 {
@@ -17,9 +30,47 @@ Focused on distributed web platforms, network architecture, and systems security
 }
 ```
 
-<br clear="both" />
+### Terminal Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/spinners.dark.svg">
+    <img alt="Terminal Activity Spinners" src=".github/assets/spinners.svg" width="600">
+  </picture>
+</p>
 
 ### Technical Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/arch-linux.dark.svg">
+    <img alt="Arch Linux" src="https://ascii.rest/svg/arch-linux.svg" height="65">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/kali-linux.dark.svg">
+    <img alt="Kali Linux" src="https://ascii.rest/svg/kali-linux.svg" height="65">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/debian.dark.svg">
+    <img alt="Debian" src="https://ascii.rest/svg/debian.svg" height="65">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/python.dark.svg">
+    <img alt="Python" src="https://ascii.rest/svg/python.svg" height="65">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/typescript.dark.svg">
+    <img alt="TypeScript" src="https://ascii.rest/svg/typescript.svg" height="65">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/go.dark.svg">
+    <img alt="Go" src="https://ascii.rest/svg/go.svg" height="65">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/c.dark.svg">
+    <img alt="C" src="https://ascii.rest/svg/c.svg" height="65">
+  </picture>
+</p>
 
 <div align="center">
   <a href="https://skillicons.dev">
