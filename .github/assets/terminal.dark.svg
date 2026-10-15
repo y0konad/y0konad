@@ -6,27 +6,27 @@
       font-size: 13.5px;
       white-space: pre;
     }
-    .title { fill: #94a3b8; font-size: 12px; font-weight: 500; }
+    .title { fill: #8b949e; font-size: 12px; font-weight: 500; }
   </style>
-  <rect width="100%" height="100%" rx="10" fill="#060913" stroke="#1e293b" stroke-width="1.5" />
-  <path d="M 0 10 C 0 4.5 4.5 0 10 0 L 700 0 C 705.5 0 710 4.5 710 10 L 710 34 L 0 34 Z" fill="#0c1222" stroke="#1e293b" stroke-width="1.5" />
-  <circle cx="22" cy="17" r="5" fill="#8b5cf6" />
-  <circle cx="38" cy="17" r="5" fill="#a855f7" />
-  <circle cx="54" cy="17" r="5" fill="#38bdf8" />
+  <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <path d="M 0 10 C 0 4.5 4.5 0 10 0 L 700 0 C 705.5 0 710 4.5 710 10 L 710 34 L 0 34 Z" fill="#161b22" stroke="#30363d" stroke-width="1" />
+  <circle cx="20" cy="17" r="5" fill="#ff5f56" />
+  <circle cx="36" cy="17" r="5" fill="#ffbd2e" />
+  <circle cx="52" cy="17" r="5" fill="#27c93f" />
   <text x="355" y="21" text-anchor="middle" class="title">y0konad@y0kolab: ~/profile</text>
-  <text x="24" y="58"><tspan fill="#ffffff" font-size="17px" font-weight="700">Dan Ramos</tspan> <tspan fill="#c084fc" font-size="14px" font-weight="600">(y0konad)</tspan></text>
-  <text x="24" y="78"><tspan fill="#38bdf8" font-size="12.5px" font-weight="500">Software Developer · Network &amp; Systems Security Engineer</tspan></text>
-  <text x="24" y="104"><tspan fill="#c084fc">▸</tspan> <tspan fill="#38bdf8" font-weight="600">Location:</tspan> <tspan fill="#f8fafc">Peru</tspan></text>
-  <text x="24" y="125"><tspan fill="#c084fc">▸</tspan> <tspan fill="#38bdf8" font-weight="600">Systems:</tspan> <tspan fill="#f8fafc">Arch Linux (x86_64) · Kali Linux · Debian</tspan></text>
-  <text x="24" y="146"><tspan fill="#c084fc">▸</tspan> <tspan fill="#38bdf8" font-weight="600">Core Focus:</tspan> <tspan fill="#f8fafc">Distributed Web Platforms · Network Infrastructure · Security</tspan></text>
-  <text x="24" y="174"><tspan fill="#c084fc" font-weight="700">▸ Specialization</tspan></text>
-  <text x="40" y="195"><tspan fill="#38bdf8">•</tspan> <tspan fill="#a855f7" font-weight="600">Routing &amp; Switching:</tspan> <tspan fill="#f8fafc">Cisco IOS, VLSM Subnet Planning, Topology Design</tspan></text>
-  <text x="40" y="216"><tspan fill="#38bdf8">•</tspan> <tspan fill="#a855f7" font-weight="600">Packet Analysis:</tspan> <tspan fill="#f8fafc">Wireshark, TCP/IP Protocol Suite, Network Reconnaissance</tspan></text>
-  <text x="40" y="237"><tspan fill="#38bdf8">•</tspan> <tspan fill="#a855f7" font-weight="600">Security Assessment:</tspan> <tspan fill="#f8fafc">Kali Linux, Vulnerability Auditing, Port Scanning</tspan></text>
-  <text x="24" y="265"><tspan fill="#c084fc" font-weight="700">▸ Featured Projects</tspan></text>
-  <text x="40" y="286"><tspan fill="#38bdf8">•</tspan> <tspan fill="#a855f7" font-weight="600">subneteo-vlsm:</tspan> <tspan fill="#f8fafc">Automated IPv4 VLSM Network Allocation Engine</tspan></text>
-  <text x="40" y="307"><tspan fill="#38bdf8">•</tspan> <tspan fill="#a855f7" font-weight="600">mcp-gemini-packet:</tspan> <tspan fill="#f8fafc">Cisco Packet Tracer AI Bridge for Topology Design</tspan></text>
-  <text x="40" y="328"><tspan fill="#38bdf8">•</tspan> <tspan fill="#a855f7" font-weight="600">yokonad.github.io:</tspan> <tspan fill="#f8fafc">Personal Engineering &amp; Research Portal</tspan></text>
-  <text x="24" y="358"><tspan fill="#c084fc">▸</tspan> <tspan fill="#38bdf8" font-weight="600">Tech Stack:</tspan> <tspan fill="#f8fafc">C · Python · Go · TypeScript · Bash · Cloudflare</tspan></text>
-  <text x="24" y="379"><tspan fill="#c084fc">▸</tspan> <tspan fill="#38bdf8" font-weight="600">Current Status:</tspan> <tspan fill="#f8fafc">Building resilient networks &amp; automated security tools </tspan><tspan fill="#c084fc">█</tspan></text>
+  <text x="24" y="58"><tspan fill="#f0f6fc" font-size="17px" font-weight="700">Dan Ramos</tspan> <tspan fill="#bc8cff" font-size="14px" font-weight="600">(y0konad)</tspan></text>
+  <text x="24" y="78"><tspan fill="#58a6ff" font-size="12.5px" font-weight="500">Software Developer · Network &amp; Systems Security Engineer</tspan></text>
+  <text x="24" y="104"><tspan fill="#bc8cff">▸</tspan> <tspan fill="#58a6ff" font-weight="600">Location:</tspan> <tspan fill="#e6edf3">Peru</tspan></text>
+  <text x="24" y="125"><tspan fill="#bc8cff">▸</tspan> <tspan fill="#58a6ff" font-weight="600">Systems:</tspan> <tspan fill="#e6edf3">Arch Linux (x86_64) · Kali Linux · Debian</tspan></text>
+  <text x="24" y="146"><tspan fill="#bc8cff">▸</tspan> <tspan fill="#58a6ff" font-weight="600">Core Focus:</tspan> <tspan fill="#e6edf3">Distributed Web Platforms · Network Infrastructure · Security</tspan></text>
+  <text x="24" y="174"><tspan fill="#bc8cff" font-weight="700">▸ Specialization</tspan></text>
+  <text x="40" y="195"><tspan fill="#58a6ff">•</tspan> <tspan fill="#bc8cff" font-weight="600">Routing &amp; Switching:</tspan> <tspan fill="#e6edf3">Cisco IOS, VLSM Subnet Planning, Topology Design</tspan></text>
+  <text x="40" y="216"><tspan fill="#58a6ff">•</tspan> <tspan fill="#bc8cff" font-weight="600">Packet Analysis:</tspan> <tspan fill="#e6edf3">Wireshark, TCP/IP Protocol Suite, Network Reconnaissance</tspan></text>
+  <text x="40" y="237"><tspan fill="#58a6ff">•</tspan> <tspan fill="#bc8cff" font-weight="600">Security Assessment:</tspan> <tspan fill="#e6edf3">Kali Linux, Vulnerability Auditing, Port Scanning</tspan></text>
+  <text x="24" y="265"><tspan fill="#bc8cff" font-weight="700">▸ Featured Projects</tspan></text>
+  <text x="40" y="286"><tspan fill="#58a6ff">•</tspan> <tspan fill="#bc8cff" font-weight="600">subneteo-vlsm:</tspan> <tspan fill="#e6edf3">Automated IPv4 VLSM Network Allocation Engine</tspan></text>
+  <text x="40" y="307"><tspan fill="#58a6ff">•</tspan> <tspan fill="#bc8cff" font-weight="600">mcp-gemini-packet:</tspan> <tspan fill="#e6edf3">Cisco Packet Tracer AI Bridge for Topology Design</tspan></text>
+  <text x="40" y="328"><tspan fill="#58a6ff">•</tspan> <tspan fill="#bc8cff" font-weight="600">yokonad.github.io:</tspan> <tspan fill="#e6edf3">Personal Engineering &amp; Research Portal</tspan></text>
+  <text x="24" y="358"><tspan fill="#bc8cff">▸</tspan> <tspan fill="#58a6ff" font-weight="600">Tech Stack:</tspan> <tspan fill="#e6edf3">C · Python · Go · TypeScript · Bash · Cloudflare</tspan></text>
+  <text x="24" y="379"><tspan fill="#bc8cff">▸</tspan> <tspan fill="#58a6ff" font-weight="600">Current Status:</tspan> <tspan fill="#e6edf3">Building resilient networks &amp; automated security tools </tspan><tspan fill="#bc8cff">█</tspan></text>
 </svg>
