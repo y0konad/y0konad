@@ -61,6 +61,15 @@
 
 ### Networking & Security Specialization
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/terminal.dark.svg">
+    <img alt="Terminal Session - Networking &amp; Security" src=".github/assets/terminal.svg" width="700">
+  </picture>
+</div>
+
+<br />
+
 #### Routing & Switching
 > Cisco IOS · VLSM Subnet Planning · Cisco Packet Tracer · Network Topology Design
 

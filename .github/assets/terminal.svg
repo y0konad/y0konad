@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 460" width="740" height="460" role="img" aria-label="Terminal Session - Networking &amp; Security" xml:space="preserve">
+  <title>Terminal Session - y0konad</title>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 13.5px;
+      white-space: pre;
+    }
+    .text { fill: #1f2328; }
+    .title { fill: #57606a; font-size: 12.5px; font-weight: 500; }
+    .prompt { fill: #0284c7; font-weight: 600; }
+    .cmd { fill: #b45309; font-weight: 600; }
+    .success { fill: #16a34a; font-weight: 600; }
+    .dim { fill: #656d76; }
+    .key { fill: #be185d; }
+    .val { fill: #6d28d9; }
+    .cursor { fill: #0284c7; }
+  </style>
+  <rect width="100%" height="100%" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5" />
+  <path d="M 0 10 C 0 4.5 4.5 0 10 0 L 730 0 C 735.5 0 740 4.5 740 10 L 740 34 L 0 34 Z" fill="#eaeef2" stroke="#d0d7de" stroke-width="1.5" />
+  <circle cx="20" cy="17" r="5.5" fill="#ff5f56" />
+  <circle cx="36" cy="17" r="5.5" fill="#ffbd2e" />
+  <circle cx="52" cy="17" r="5.5" fill="#27c93f" />
+  <text x="370" y="21" text-anchor="middle" class="title">y0konad@y0kolab: ~/network-ops</text>
+  <text x="24" y="65"><tspan class="prompt">y0konad@y0kolab:~$</tspan> <tspan class="cmd">whoami</tspan></text>
+  <text x="24" y="85"><tspan class="text">y0konad — Network Architecture & Security Assessment Engineer</tspan></text>
+  <text x="24" y="125"><tspan class="prompt">y0konad@y0kolab:~$</tspan> <tspan class="cmd">cat stack.json</tspan></text>
+  <text x="24" y="145"><tspan class="text">{</tspan></text>
+  <text x="24" y="165"><tspan class="key">  "systems"</tspan><tspan class="dim">:</tspan> <tspan class="val">["Arch Linux", "Kali Linux", "Debian"],</tspan></text>
+  <text x="24" y="185"><tspan class="key">  "core"</tspan><tspan class="dim">:</tspan> <tspan class="val">["Cisco IOS", "VLSM", "Wireshark", "Nmap"],</tspan></text>
+  <text x="24" y="205"><tspan class="key">  "languages"</tspan><tspan class="dim">:</tspan> <tspan class="val">["C", "Python", "Go", "TypeScript", "Bash"]</tspan></text>
+  <text x="24" y="225"><tspan class="text">}</tspan></text>
+  <text x="24" y="265"><tspan class="prompt">y0konad@y0kolab:~$</tspan> <tspan class="cmd">./subneteo-vlsm -n 192.168.1.0/24 --hosts 60,30</tspan></text>
+  <text x="24" y="285"><tspan class="success">[✓] Subnets: </tspan><tspan class="text">192.168.1.0/26 (LAN-A) · 192.168.1.64/27 (LAN-B)</tspan></text>
+  <text x="24" y="325"><tspan class="prompt">y0konad@y0kolab:~$</tspan> <tspan class="cmd">nmap -sS -T4 -p 22,80,443 gateway.cisco.lab</tspan></text>
+  <text x="24" y="345"><tspan class="text">22/tcp open ssh (OpenSSH 9.6) · 80/tcp open http · 443/tcp open https</tspan></text>
+  <text x="24" y="365"><tspan class="success">[✓] Active: </tspan><tspan class="text">Cisco IOS Enterprise Gateway Verified</tspan></text>
+  <text x="24" y="405"><tspan class="prompt">y0konad@y0kolab:~$</tspan> <tspan class="cmd">ping -c 3 1.1.1.1</tspan></text>
+  <text x="24" y="425"><tspan class="text">3 packets transmitted, 3 received, 0% packet loss, time 0.42ms </tspan><tspan class="cursor">█</tspan></text>
+</svg>
