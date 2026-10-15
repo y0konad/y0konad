@@ -11,7 +11,10 @@
 </p>
 
 <div align="center">
-  <img src="https://media.tenor.com/Ammyf2mgCNAAAAAC/azur-lane-enterprise.gif" width="280" alt="Enterprise typing animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/y0konad/y0konad/main/.github/assets/terminal.dark.svg">
+    <img alt="y0konad - Profile &amp; Specialization" src="https://raw.githubusercontent.com/y0konad/y0konad/main/.github/assets/terminal.svg" width="710">
+  </picture>
 </div>
 
 ### Technical Stack
@@ -58,12 +61,3 @@
     <img alt="TypeScript" src="https://raw.githubusercontent.com/y0konad/y0konad/main/.github/assets/stack/typescript.svg" height="75">
   </picture>
 </p>
-
-### Engineering Profile & Specialization
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/y0konad/y0konad/main/.github/assets/terminal.dark.svg">
-    <img alt="Terminal Session - Networking &amp; Security" src="https://raw.githubusercontent.com/y0konad/y0konad/main/.github/assets/terminal.svg" width="720">
-  </picture>
-</div>
