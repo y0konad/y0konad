@@ -23,7 +23,7 @@
   <circle cx="52" cy="17" r="5.5" fill="#27c93f" />
   <text x="370" y="21" text-anchor="middle" class="title">y0konad@y0kolab: ~/network-ops</text>
   <text x="24" y="65"><tspan class="prompt">y0konad@y0kolab:~$</tspan> <tspan class="cmd">whoami</tspan></text>
-  <text x="24" y="85"><tspan class="text">y0konad — Network Architecture & Security Assessment Engineer</tspan></text>
+  <text x="24" y="85"><tspan class="text">y0konad — Network Architecture &amp; Security Assessment Engineer</tspan></text>
   <text x="24" y="125"><tspan class="prompt">y0konad@y0kolab:~$</tspan> <tspan class="cmd">cat stack.json</tspan></text>
   <text x="24" y="145"><tspan class="text">{</tspan></text>
   <text x="24" y="165"><tspan class="key">  "systems"</tspan><tspan class="dim">:</tspan> <tspan class="val">["Arch Linux", "Kali Linux", "Debian"],</tspan></text>
